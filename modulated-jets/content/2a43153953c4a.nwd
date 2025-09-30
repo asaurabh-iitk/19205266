@@ -1,9 +1,25 @@
-%%~name: Forcing characteristics
+%%~name: Cavitation cloud in the manifold
 %%~path: a1176d904164f/2a43153953c4a
 %%~kind: NOVEL/DOCUMENT
-%%~hash: 1f10d503a55d92443eda17d0841cae31a4188007
-%%~date: 2025-07-21 14:17:29/2025-07-24 12:33:58
-### Forcing characteristics
+%%~hash: f8ac9c8d06bd3b3a0935264039d145400ea92c2a
+%%~date: 2025-07-21 14:17:29/2025-08-30 19:19:11
+### Cavitation cloud in the manifold
 
-%Synopsis: Summary of the scene.
+%Synopsis: We discuss the formation, characteristics, and parameter variations of the acoustic cavitation cloud in the manifold.
 
+01. Images of cavitation cloud with variation in pressure, amplitude; also perhaps with fresh/used water. Proof of lack of bubble collapse at the walls.
+
+file:///C:/Users/finch-user/Desktop/work/projects/19205266/images/cavitation_cloud1.jpg
+
+
+- The formation of time-varying bubble cloud – stable cavitation suggesting the range of bubble sizes below the critical radius threshold.
+- Different stages of bubble cloud oscillation.
+- Formation of streamers along the walls.
+- The evidence of low frequencies in the bubble cloud.
+- Dynamics of the cloud in terms of POD modes – zones of activity, cloud impingement on the plate.
+
+02. Expected variation in bubble cloud composition (size) and structure with pressure and power.
+
+- The variance of these features as a function of static pressure.
+- The variance of these features as a function of amplitude.
+- Estimation of the effect of static pressure on bubble dynamics and comparison with experiments (with amplitude as an additional parameter)

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.7.4" hexVersion="0x020704f0" fileVersion="1.5" fileRevision="5" timeStamp="2025-07-29 20:01:34">
-  <project id="df573e4c-64aa-466c-8062-bf45d649377f" saveCount="2" autoCount="9" editTime="458980">
+<novelWriterXML appVersion="2.7.4" hexVersion="0x020704f0" fileVersion="1.5" fileRevision="5" timeStamp="2025-08-31 19:17:07">
+  <project id="df573e4c-64aa-466c-8062-bf45d649377f" saveCount="9" autoCount="48" editTime="1124185">
     <name>modulated-jets</name>
     <author>Aditya Saurabh</author>
   </project>
@@ -9,14 +9,14 @@
     <language>en_US</language>
     <spellChecking auto="yes">None</spellChecking>
     <lastHandle>
-      <entry key="editor">a96fabdd06480</entry>
+      <entry key="editor">2a43153953c4a</entry>
       <entry key="viewer">None</entry>
       <entry key="novel">5e9c20cd31b80</entry>
       <entry key="outline">None</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="sc06e03" count="27" red="120" green="120" blue="120" shape="STAR">New</entry>
+      <entry key="sc06e03" count="30" red="120" green="120" blue="120" shape="STAR">New</entry>
       <entry key="sf33af1" count="0" red="205" green="171" blue="143" shape="TRIANGLE">Note</entry>
       <entry key="s1b9936" count="0" red="143" green="240" blue="164" shape="CIRCLE_T">Draft</entry>
       <entry key="s2b4130" count="0" red="249" green="240" blue="107" shape="STAR">Finished</entry>
@@ -28,32 +28,36 @@
       <entry key="i7b7b3e" count="0" red="220" green="138" blue="221" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="44" novelWords="73" notesWords="13" novelChars="444" notesChars="96">
+  <content items="47" novelWords="309" notesWords="16" novelChars="2016" notesChars="120">
     <item handle="5e9c20cd31b80" parent="None" root="5e9c20cd31b80" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="sc06e03" import="i93ef71">Manuscript</name>
     </item>
     <item handle="4cee2d94c8efd" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H1" charCount="88" wordCount="14" paraCount="3" cursorPos="0" />
+      <meta expanded="no" heading="H1" charCount="159" wordCount="22" paraCount="3" cursorPos="159" />
       <name status="sc06e03" import="i93ef71" active="yes">Title Page</name>
     </item>
-    <item handle="07932c781671c" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H2" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
+    <item handle="59d1fb06ae3c7" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H2" charCount="100" wordCount="13" paraCount="1" cursorPos="105" />
+      <name status="sc06e03" import="i93ef71" active="yes">Abstract</name>
+    </item>
+    <item handle="07932c781671c" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="yes" heading="H2" charCount="12" wordCount="1" paraCount="0" cursorPos="138" />
       <name status="sc06e03" import="i93ef71" active="yes">Introduction</name>
     </item>
     <item handle="9591325246e05" parent="07932c781671c" root="5e9c20cd31b80" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
-      <name status="sc06e03" import="i93ef71" active="yes">Scene 1.1</name>
+      <meta expanded="no" heading="H3" charCount="17" wordCount="3" paraCount="0" cursorPos="65" />
+      <name status="sc06e03" import="i93ef71" active="yes">Plain jet breakup</name>
     </item>
     <item handle="83b05b87e3e61" parent="07932c781671c" root="5e9c20cd31b80" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
-      <name status="sc06e03" import="i93ef71" active="yes">Scene 1.2</name>
+      <meta expanded="no" heading="H3" charCount="38" wordCount="7" paraCount="0" cursorPos="42" />
+      <name status="sc06e03" import="i93ef71" active="yes">Jet breakup in the presence of bubbles</name>
     </item>
     <item handle="a7d819db24d21" parent="07932c781671c" root="5e9c20cd31b80" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
-      <name status="sc06e03" import="i93ef71" active="yes">Scene 1.3</name>
+      <meta expanded="no" heading="H3" charCount="42" wordCount="5" paraCount="0" cursorPos="46" />
+      <name status="sc06e03" import="i93ef71" active="yes">Acoustic cavitation and cavitation bubbles</name>
     </item>
-    <item handle="2da031468c637" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="2da031468c637" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
       <name status="sc06e03" import="i93ef71" active="yes">Methods</name>
     </item>
@@ -69,21 +73,33 @@
       <meta expanded="no" heading="H3" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
       <name status="sc06e03" import="i93ef71" active="yes">Scene 2.3</name>
     </item>
-    <item handle="a1176d904164f" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="a1176d904164f" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H2" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
       <name status="sc06e03" import="i93ef71" active="yes">Results</name>
     </item>
     <item handle="2a43153953c4a" parent="a1176d904164f" root="5e9c20cd31b80" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="23" wordCount="2" paraCount="0" cursorPos="13" />
-      <name status="sc06e03" import="i93ef71" active="yes">Forcing characteristics</name>
+      <meta expanded="no" heading="H3" charCount="1011" wordCount="150" paraCount="5" cursorPos="694" />
+      <name status="sc06e03" import="i93ef71" active="no">Cavitation cloud in the manifold</name>
     </item>
-    <item handle="1fce19a90f5cc" parent="a1176d904164f" root="5e9c20cd31b80" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="25" wordCount="5" paraCount="0" cursorPos="65" />
-      <name status="sc06e03" import="i93ef71" active="yes">Jet structure at the exit</name>
+    <item handle="426477502a0ff" parent="a1176d904164f" root="5e9c20cd31b80" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="334" wordCount="58" paraCount="1" cursorPos="431" />
+      <name status="sc06e03" import="i93ef71" active="yes">Bubble evolution in the jet</name>
     </item>
-    <item handle="526204300aafd" parent="a1176d904164f" root="5e9c20cd31b80" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="5ac0ed7209b7d" parent="a1176d904164f" root="5e9c20cd31b80" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="7" wordCount="1" paraCount="0" cursorPos="0" />
+      <name status="sc06e03" import="i93ef71" active="yes">archive</name>
+    </item>
+    <item handle="526204300aafd" parent="5ac0ed7209b7d" root="5e9c20cd31b80" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H3" charCount="21" wordCount="3" paraCount="0" cursorPos="25" />
       <name status="sc06e03" import="i93ef71" active="yes">Jet breakup mechanism</name>
+    </item>
+    <item handle="8f936abf352d1" parent="5ac0ed7209b7d" root="5e9c20cd31b80" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
+      <name status="sc06e03" import="i93ef71" active="yes">POD modes</name>
+    </item>
+    <item handle="1fce19a90f5cc" parent="5ac0ed7209b7d" root="5e9c20cd31b80" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H3" charCount="24" wordCount="5" paraCount="0" cursorPos="62" />
+      <name status="sc06e03" import="i93ef71" active="yes">Jet dynamics at the exit</name>
     </item>
     <item handle="412dbe83812b8" parent="a1176d904164f" root="5e9c20cd31b80" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H3" charCount="18" wordCount="2" paraCount="0" cursorPos="0" />
@@ -109,15 +125,11 @@
       <meta expanded="no" heading="H3" charCount="18" wordCount="2" paraCount="0" cursorPos="0" />
       <name status="sc06e03" import="i93ef71" active="yes">Spray unsteadiness</name>
     </item>
-    <item handle="8f936abf352d1" parent="a1176d904164f" root="5e9c20cd31b80" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
-      <name status="sc06e03" import="i93ef71" active="yes">POD modes</name>
-    </item>
-    <item handle="ce564d8aca4f3" parent="a1176d904164f" root="5e9c20cd31b80" order="10" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="ce564d8aca4f3" parent="a1176d904164f" root="5e9c20cd31b80" order="9" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H3" charCount="29" wordCount="3" paraCount="0" cursorPos="0" />
       <name status="sc06e03" import="i93ef71" active="yes">Droplet velocity distribution</name>
     </item>
-    <item handle="dac686d435a9b" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="dac686d435a9b" parent="5e9c20cd31b80" root="5e9c20cd31b80" order="5" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H2" charCount="9" wordCount="2" paraCount="0" cursorPos="0" />
       <name status="sc06e03" import="i93ef71" active="yes">Discussions and conclusions</name>
     </item>
@@ -134,11 +146,11 @@
       <name status="sc06e03" import="i93ef71" active="yes">Scene 4.3</name>
     </item>
     <item handle="c30fc3eac61f2" parent="None" root="c30fc3eac61f2" order="1" type="ROOT" class="PLOT">
-      <meta expanded="yes" />
+      <meta expanded="no" />
       <name status="sc06e03" import="i93ef71">Organization</name>
     </item>
     <item handle="f10aa2954e380" parent="c30fc3eac61f2" root="c30fc3eac61f2" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="9" wordCount="2" paraCount="0" cursorPos="23" />
+      <meta expanded="no" heading="H1" charCount="9" wordCount="2" paraCount="0" cursorPos="11" />
       <name status="sc06e03" import="i93ef71" active="yes">Flow</name>
     </item>
     <item handle="168b8170509da" parent="None" root="168b8170509da" order="2" type="ROOT" class="CHARACTER">
@@ -178,7 +190,7 @@
       <name status="sc06e03" import="i93ef71">Archive</name>
     </item>
     <item handle="e2c7cbf22c5f9" parent="None" root="e2c7cbf22c5f9" order="5" type="ROOT" class="TRASH">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="sc06e03" import="i93ef71">Trash</name>
     </item>
     <item handle="a9c6f85051d24" parent="e2c7cbf22c5f9" root="e2c7cbf22c5f9" order="0" type="FILE" class="TRASH" layout="DOCUMENT">
@@ -190,7 +202,7 @@
       <name status="sc06e03" import="i93ef71">Research</name>
     </item>
     <item handle="88e8b43f7627e" parent="e098b00c43ff6" root="e098b00c43ff6" order="0" type="FILE" class="ENTITY" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="11" wordCount="1" paraCount="0" cursorPos="0" />
+      <meta expanded="no" heading="H1" charCount="35" wordCount="4" paraCount="0" cursorPos="44" />
       <name status="sc06e03" import="i93ef71" active="yes">Experiments</name>
     </item>
     <item handle="870371b4ff8ea" parent="e098b00c43ff6" root="e098b00c43ff6" order="1" type="FILE" class="ENTITY" layout="NOTE">
