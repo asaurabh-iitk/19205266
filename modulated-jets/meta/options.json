@@ -1,0 +1,36 @@
+{
+  "novelWriter.guiOptions": {
+    "GuiDocViewerPanel": {
+      "colWidths": {
+        "CHARACTER": [100, 100, 100, 100],
+        "PLOT": [100, 100, 100, 100],
+        "WORLD": [100, 100, 100, 100],
+        "TIMELINE": [100, 100, 100, 100],
+        "OBJECT": [100, 100, 100, 100],
+        "ENTITY": [100, 100, 100, 100],
+        "CUSTOM": [100, 100, 100, 100]
+      },
+      "hideInactive": false
+    },
+    "GuiNovelView": {
+      "lastCol": "HIDDEN",
+      "lastColSize": 25
+    },
+    "GuiManuscript": {
+      "winWidth": 900,
+      "winHeight": 600,
+      "optsWidth": 225,
+      "viewWidth": 649,
+      "listHeight": 206,
+      "detailsHeight": 285,
+      "detailsWidth": 100,
+      "detailsExpanded": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "showNewPage": true
+    }
+  }
+}
